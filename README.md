@@ -1,4 +1,4 @@
 # Tutorial_10
 change in readme 
 
-doing extended comit 
+doing extended commit 
